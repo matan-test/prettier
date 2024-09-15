@@ -12,6 +12,7 @@
   "main": "./src/index.cjs",
   "browser": "./standalone.js",
   "unpkg": "./standalone.js",
+  
   "exports": {
     ".": {
       "types": "./src/index.d.ts",
