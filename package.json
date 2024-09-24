@@ -18,6 +18,7 @@
     ".": {
       "types": "./src/index.d.ts",
       "require": "./src/index.cjs",
+      
       "default": "./src/index.js"
 
       
