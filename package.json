@@ -6,6 +6,7 @@
   "repository": "prettier/prettier",
   "funding": "https://github.com/prettier/prettier?sponsor=1",
   "homepage": "https://prettier.io",
+  
   "author": "James Long",
   "type": "module",
   "license": "MIT",
