@@ -3,6 +3,7 @@
 [diff](https://github.com/prettier/prettier/compare/3.3.1...3.3.2)
 
 #### Fix handlebars path expressions starts with `@` ([#16358](https://github.com/prettier/prettier/pull/16358) by [@Princeyadav05](https://github.com/Princeyadav05))
+asdasd
 
 <!-- prettier-ignore -->
 ```hbs
