@@ -19,3 +19,6 @@ trim_trailing_whitespace = false
 
 [tests/format/**/format.test.js]
 trim_trailing_whitespace = true
+
+
+
