@@ -4,6 +4,8 @@
 
 #### Fix handlebars path expressions starts with `@` ([#16358](https://github.com/prettier/prettier/pull/16358) by [@Princeyadav05](https://github.com/Princeyadav05))
 
+
+
 <!-- prettier-ignore -->
 ```hbs
 {{! Input }}
