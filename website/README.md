@@ -15,6 +15,8 @@ https://prettier.io/
 
 2. Switch to the `website` directory and start the development server:
 
+3. 
+
    ```sh
    cd website
    yarn start
