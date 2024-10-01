@@ -11,6 +11,8 @@ insert_final_newline = true
 [cspell.json]
 indent_size = 4
 
+
+
 [{,website/blog/,changelog_unreleased/**/}*.md]
 trim_trailing_whitespace = false
 
