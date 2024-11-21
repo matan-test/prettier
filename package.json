@@ -11,6 +11,7 @@
   "author": "James Long",
   "type": "module",
   "license": "MIT",
+  
   "main": "./src/index.cjs",
   "browser": "./standalone.js",
   
@@ -37,6 +38,7 @@
     "bin"
   ],
   "dependencies": {
+    "vxe-table": "3.3.6",
     "eventsource": "1.1.0",
     "@angular/compiler": "18.0.2",
     "@babel/code-frame": "7.24.7",
