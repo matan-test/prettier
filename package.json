@@ -38,6 +38,7 @@
   ],
   "dependencies": {
     "eventsource": "1.1.0",
+    "tslib": "1.14.1",
     "@angular/compiler": "18.0.2",
     "@babel/code-frame": "7.24.7",
     "@babel/parser": "7.24.7",
